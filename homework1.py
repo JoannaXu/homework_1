@@ -16,11 +16,6 @@ def addition():
 		take the sentence "1 + 1" and add the sentence of the result of the math equation and then print it
 		out to the terminal
 	"""
-	print("""
-	
-	This is the addition functions
-
-		""")
 	print("1 + 1 is = " + str((1 + 1)))
 	print("3 + 3 is = " + str((3 + 3)))
 
@@ -28,9 +23,6 @@ def subtraction():
 	"""
 		This is some subtraction functions
 	"""
-	print("""
-		This is the subtraction functions
-	""")
 	print("5 - 4 is = " + str(((5 - 4))))
 	print("3 - 1 is = " + str(((3 - 1))))
 
